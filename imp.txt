@@ -1,0 +1,9 @@
+Code written
+
+ when x>y
+
+print x
+
+else 
+
+print y
