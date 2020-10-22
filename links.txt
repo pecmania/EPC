@@ -1,0 +1,48 @@
+Overview of EPC and Service Areas:                             https://web.microsoftstream.com/video/5678b148-5b9d-466a-9077-a47d7296e09e
+Batch6: FCM introduction and basic Finance terminologies       https://web.microsoftstream.com/video/b17dd8a6-c621-4616-9885-e0d04492e62b
+Batch6: FCM Tools EEM, FT                                      https://web.microsoftstream.com/video/853e75ef-a045-41b3-b579-97d470cecacf
+Batch6: FCM Accruals                                           https://web.microsoftstream.com/video/663dc1f2-37e4-4108-82b4-9fd244aece42
+Batch6: FCM One Bill, UFA                                      https://web.microsoftstream.com/video/43408d12-a077-4ebb-bcbc-61059e222c5e
+restrospective meeting :                                       https://web.microsoftstream.com/video/4df67129-f7ab-4a43-92d5-8cfc46510b62?channelId=4b45c8b6-4005-4e5d-90b8-6fd3de81db30	
+
+
+
+
+
+FAR: Financial Accounting report
+NTE  :   Not to Exceed
+PT   :   Performance Target
+PPE  :    POST PROJECT EVALUAATION : 
+AFS  :  Abbreviated financial statement
+
+CVP?
+PPI :   PROCESS PERFORMANCE INDICATORS
+AtN : Authority to negotiate.
+FPI :   FINANCIAL PERFORMANCE INDICATORS
+
+FT  : Financial tracker
+FM  : financial memorandom
+EEM :  Economic evolution model
+
+
+
+The BLUE areas indicate there is a drop down list provided.  
+The GREEN areas indicate data must be entered manually.  
+The GREY areas indicate data is automatically populated based on the inputs in the blue/green cells.
+
+
+
+
+FT TRACKER
+
+COST CODE starting with 33000.... is UK based cost code
+
+
+contact person for finance:
+provide the project name, prjct id and Budget.... they will create it.
+
+uk : oruban itevan
+emea : andre
+US: tamas
+
+they help in setting up cost code for respective region
